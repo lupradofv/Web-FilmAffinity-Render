@@ -1,2 +1,2 @@
-# Web-Peliculas
-Web de películas con catálogo,  buscador, ranking, críticas, usuarios, roles, y otras funcionalidades relacionadas.
+# Web-FilmAffinity-Render
+Movie website providing access to catalog, search engine, ranking, reviews, users, and other related functionalities.
