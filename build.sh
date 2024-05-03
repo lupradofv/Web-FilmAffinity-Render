@@ -3,6 +3,9 @@
 # Navigate to the frontend directory
 cd frontend
 
+# Install Vite
+npm install vite
+
 # Install any dependencies
 npm install
 
