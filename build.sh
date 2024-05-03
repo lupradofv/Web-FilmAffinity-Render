@@ -10,4 +10,4 @@ npm install
 npm run build
 
 # Run the app
-npm run preview
+npm start
